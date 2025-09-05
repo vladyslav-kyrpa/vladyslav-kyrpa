@@ -4,9 +4,11 @@ I'm a Software Engineering graduate with hands-on experience in full-stack (.NET
 ### 💼 Portfolio [(CV)](https://vladyslav-kyrpa.github.io/resume-cv):
 Currently working on:
 - [Lunar Messenger](https://github.com/vladyslav-kyrpa/lunar-rtm)
+
 My previous projects:
 - [Quizzes Web Application](https://github.com/vladyslav-kyrpa/QuizzesWebApp)
 - [Computer Store](https://github.com/vladyslav-kyrpa/ComputerStore)
+
 Some other fun projects that I've worked on:
 - [Task Management App (Windows)](https://github.com/vladyslav-kyrpa/TaskManagementApp)
 - [Pomodoro Timer (Windows)](https://github.com/vladyslav-kyrpa/PomodoroTimer)
